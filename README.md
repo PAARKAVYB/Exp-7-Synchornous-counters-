@@ -4,9 +4,9 @@
 To implement 4 bit up and down counters and validate  functionality.
 
 ## HARDWARE REQUIRED:  
-1.PC
-2.Cyclone II 
-3.USB flasher
+   1.PC
+   2.Cyclone II 
+   3.USB flasher
 
 ## SOFTWARE REQUIRED: 
 Quartus prime
@@ -64,6 +64,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 /*
 Program for Up Counter  and verify its truth table in quartus using Verilog programming.
+
 Developed by: Paarkavy B
 RegisterNumber: 21221230072
 */
@@ -100,6 +101,7 @@ With Reset = 1
 ## DOWN COUNTER:
 /*
 Program for Down Counter  and verify its truth table in quartus using Verilog programming.
+
 Developed by: Paarkavy B
 RegisterNumber: 21221230072
 */
